@@ -11,6 +11,7 @@ apps:
     command: ubuntu-personal-store.launcher
     plugs:
       - browser-support
+      - mir-libs
       - network
       - opengl
       - unity7

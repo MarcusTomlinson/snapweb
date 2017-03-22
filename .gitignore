@@ -1,6 +1,7 @@
 .vscode
 *.snap
 node_modules
+yarn
 public
 ubuntu-personal-store/parts
 ubuntu-personal-store/prime
