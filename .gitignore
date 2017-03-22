@@ -1,6 +1,9 @@
 .vscode
 *.snap
 node_modules
+parts
+prime
+stage
 yarn
 public
 ubuntu-personal-store/parts
